@@ -1,0 +1,13 @@
+garbage/
+garbage-large/
+*.pyc
+*.pth
+*.png
+dataset/
+*.zip
+drive link/
+*.jpeg
+*.webp
+*.jpg
+models/
+checkpoint.pt
